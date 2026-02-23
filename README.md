@@ -15,7 +15,7 @@ The goal of this project is to innovate some of the most widely used tools in th
 
 ### PhD Dissertation
 - 2024
-    - Manolis Fragkiadakis (9 April 2024), Digital tools for sign language research: towards recognition and comparison of lexical signs (Dissertatie. Leiden University Centre for Linguistics (LUCL), Faculty of Humanities, Leiden University) LOT dissertation series no. 666. Amsterdam: LOT. Supervisor(s) and Co-supervisor(s): Mous M.P.G.M., Nyst V.A.S. & Putten P.W.H. van der.
+    - Manolis Fragkiadakis (9 April 2024), [Digital tools for sign language research: towards recognition and comparison of lexical signs](https://scholarlypublications.universiteitleiden.nl/handle/1887/3734159?solr_nav%5Bid%5D=cb47214f40250aae6c80&solr_nav%5Bpage%5D=0&solr_nav%5Boffset%5D=0) (Dissertatie. Leiden University Centre for Linguistics (LUCL), Faculty of Humanities, Leiden University) LOT dissertation series no. 666. Amsterdam: LOT. Supervisor(s) and Co-supervisor(s): Mous M.P.G.M., Nyst V.A.S. & Putten P.W.H. van der.
 
 ### Journal articles
 - 2022
